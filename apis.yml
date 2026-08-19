@@ -30,7 +30,7 @@ tags:
   - Mexico
 created: '2026-06-04'
 modified: '2026-06-04'
-specificationVersion: '0.19'
+specificationVersion: '0.23'
 apis:
   - aid: datos-gob-mx:catalog
     name: datos.gob.mx - Sitio oficial de datos abiertos del Gobierno de la República CKAN Action API
